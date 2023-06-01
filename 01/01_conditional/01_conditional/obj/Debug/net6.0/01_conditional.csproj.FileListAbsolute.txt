@@ -1,0 +1,15 @@
+C:\Users\saivi\OneDrive\Desktop\Programs\01\01_conditional\01_conditional\bin\Debug\net6.0\01_conditional.exe
+C:\Users\saivi\OneDrive\Desktop\Programs\01\01_conditional\01_conditional\bin\Debug\net6.0\01_conditional.deps.json
+C:\Users\saivi\OneDrive\Desktop\Programs\01\01_conditional\01_conditional\bin\Debug\net6.0\01_conditional.runtimeconfig.json
+C:\Users\saivi\OneDrive\Desktop\Programs\01\01_conditional\01_conditional\bin\Debug\net6.0\01_conditional.dll
+C:\Users\saivi\OneDrive\Desktop\Programs\01\01_conditional\01_conditional\bin\Debug\net6.0\01_conditional.pdb
+C:\Users\saivi\OneDrive\Desktop\Programs\01\01_conditional\01_conditional\obj\Debug\net6.0\01_conditional.csproj.AssemblyReference.cache
+C:\Users\saivi\OneDrive\Desktop\Programs\01\01_conditional\01_conditional\obj\Debug\net6.0\01_conditional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saivi\OneDrive\Desktop\Programs\01\01_conditional\01_conditional\obj\Debug\net6.0\01_conditional.AssemblyInfoInputs.cache
+C:\Users\saivi\OneDrive\Desktop\Programs\01\01_conditional\01_conditional\obj\Debug\net6.0\01_conditional.AssemblyInfo.cs
+C:\Users\saivi\OneDrive\Desktop\Programs\01\01_conditional\01_conditional\obj\Debug\net6.0\01_conditional.csproj.CoreCompileInputs.cache
+C:\Users\saivi\OneDrive\Desktop\Programs\01\01_conditional\01_conditional\obj\Debug\net6.0\01_conditional.dll
+C:\Users\saivi\OneDrive\Desktop\Programs\01\01_conditional\01_conditional\obj\Debug\net6.0\refint\01_conditional.dll
+C:\Users\saivi\OneDrive\Desktop\Programs\01\01_conditional\01_conditional\obj\Debug\net6.0\01_conditional.pdb
+C:\Users\saivi\OneDrive\Desktop\Programs\01\01_conditional\01_conditional\obj\Debug\net6.0\01_conditional.genruntimeconfig.cache
+C:\Users\saivi\OneDrive\Desktop\Programs\01\01_conditional\01_conditional\obj\Debug\net6.0\ref\01_conditional.dll
